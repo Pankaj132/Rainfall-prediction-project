@@ -8,7 +8,7 @@ Rainfall_prediction project based on logistic regression
 Missing Values Handled by Random Sample imputation to maintain the variance
 
 Categorical Values like location, wind direction are handled by using Target guided encoding
-Outliers are handled using IQR and boxplot
+
 
 Feature Selection and was done but didnt perform well it can be seen in testing_notebook/Prediction.ipynb
 
